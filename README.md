@@ -1,3 +1,9 @@
+# So who created InnerBand? #
+
+InnerBand was created by [Rapture In Venice](http://raptureinvenice.com).
+Here only for use
+
+
 The InnerBand library aims to supplement everyday iPhone development with a set of classes, macros, components and constants that speed up development without abstracting the SDK away from you in any way.
 
 # Why InnerBand? #
@@ -198,7 +204,3 @@ The official, multi-part tutorial begins at [InnerBand Tutorial Part 1: Introduc
 # And there's a demo! #
 
 Want to see the InnerBand components in action? You can run the InnerBand Catalog project located at InnerBand/demo/Catalog/.  This demonstrates the visual features of InnerBand in a way that unit tests cannot.
-
-# So who created InnerBand? #
-
-InnerBand was created by [Rapture In Venice](http://raptureinvenice.com).
