@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'InnerBand'
-  s.version  = '1.0.0'
+  s.version  = '1.0.6'
   s.license  = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.summary  = 'about coredata'
   s.homepage = 'https://github.com/MIyulong/InnerBand.git'
